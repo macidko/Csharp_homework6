@@ -9,7 +9,7 @@ namespace Methods
     internal class SepetManager
     {
         //naming convention: 
-        //syntax: yazım şekli
+        //syntax: yazım şekli 
 
         public void Add(Product product)//imza
         {

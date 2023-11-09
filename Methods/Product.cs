@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Methods
 {
     internal class Product
-    {
+    { 
         //Class bir veri tipidir
         //Class isimleri PascalCase yazılır
 
